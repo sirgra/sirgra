@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sirgra
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning frontend developement
+👋 Hi, I’m @sirgra
+👀 I’m interested in blockchain
+🌱 I’m currently learning frontend developement
 
 <!---
 sirgra/sirgra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
